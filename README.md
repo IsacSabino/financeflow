@@ -1,6 +1,7 @@
 # FinanceFlow
 
 Aplicação web para organização e visualização de finanças pessoais.
+![Preview do FinanceFlow](assets/financeflow-preview.png)
 
 ## Tecnologias utilizadas
 
@@ -14,4 +15,8 @@ Este projeto foi criado para praticar desenvolvimento web e versionamento com Gi
 
 ## Como visualizar
 
-Abra o arquivo financeflow.html no navegador.
+Acesse o projeto online:
+
+https://isacsabino.github.io/financeflow/
+
+Ou abra o arquivo index.html no navegador.
